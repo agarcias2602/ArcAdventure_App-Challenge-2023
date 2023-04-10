@@ -22,7 +22,7 @@ Our goal is to create a comprehensive solution for responsible park exploration 
 * Use the Near Me widget to find reports, facilities, or activities near your location.
 
 ## Technologies Used
-ArcAdventure utilizes Esri Technology and Open Street Map public datasets to create a customized mapping application providing users with detailed information on Canadian parks. The technology used includes ArcGIS Desktop Pro, ArcGIS Online, ArcGIS Web AppBuilder, and ArcGIS Survey 123.
+ArcAdventure utilizes Esri Technology and Open Street Map public datasets to create a customized mapping application providing users with detailed information on Canadian parks. The technology used includes ArcGIS Desktop Pro, ArcGIS Online, ArcGIS Web AppBuilder, ArcGIS Survey 123, and ArcGIS StoryMaps.
 
 ## Contributing
 We welcome contributions from the community to help improve ArcAdventure. If you have any suggestions or ideas, please feel free to submit a pull request.
