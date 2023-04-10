@@ -7,10 +7,10 @@ Our goal is to create a comprehensive solution for responsible park exploration 
 ## Features
 * Report wildlife sightings without disturbing them
 * Report environmental concerns, such as an injured animal, garbage accumulation, or illegal activity
-* Identify facilities and activities within the park
+* Identify facilities and activities within the parks
 * Get directions to your next adventure from any location
 * Customize your map view by filtering the information you want to see
-* Use the Near Me widget to find reports, facilities, or activities near your location
+* Use the "Near Me" widget to find reports, facilities, or activities near your location
 * Get information on alerts, rules, and events for every park in the app
 
 ## How to Use
