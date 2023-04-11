@@ -14,7 +14,7 @@ Our goal is to create a comprehensive solution for responsible park exploration 
 * Get information on alerts, rules, and events for every park in the app
 
 ## How to Use
-* Use the following [LINK](https://yorku.maps.arcgis.com/apps/webappviewer/index.html?id=bf421a96497c4e52a24fc134be69ad6e) 
+* Use the following [LINK](https://www.arcgis.com/apps/webappviewer/index.html?id=bf421a96497c4e52a24fc134be69ad6e) 
 * Open the app and search for the park you want to explore.
 * Find information on facilities and activities within the park.
 * Report any wildlife sightings or environmental concerns you may encounter.
